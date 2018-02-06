@@ -2,7 +2,6 @@
   "name": "metapak-thomassloboda",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "metapak": {
     "configs": [
       "eslint",
