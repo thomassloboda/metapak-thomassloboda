@@ -17,5 +17,7 @@ This is a [`metapak`](https://github.com/nfroidure/metapak) module,
 npm install --save-dev metapak metapak-thomassloboda
 ```
 
+# [Architecture](https://github.com/thomassloboda/metapak-thomassloboda/blob/master/ARCHITECTURE.md)
+
 # License
 [MIT](https://github.com/thomassloboda/metapak-thomassloboda/blob/master/LICENSE)

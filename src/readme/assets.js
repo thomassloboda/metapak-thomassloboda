@@ -97,6 +97,14 @@ module.exports = (file, packageConf, { PROJECT_DIR, fs, log }) => {
       _getAPIContents({ PROJECT_DIR, fs, log }),
     ]).then(chunks => {
       file.data = chunks.filter(_identity).join('\n') + '\n';
+      if (metapakConfigs.includes('jsarch')) {
+        file.data +=
+          '# [Architecture](https://github.com/' +
+          USERNAME +
+          '/' +
+          packageConf.name +
+          '/blob/master/ARCHITECTURE.md)\n\n';
+      }
       file.data +=
         '# License\n' +
         '[' +
