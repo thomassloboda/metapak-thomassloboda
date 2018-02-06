@@ -3,6 +3,8 @@
 
 # metapak-thomassloboda
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/thomassloboda/metapak-thomassloboda.svg)](https://greenkeeper.io/)
+
 [![NPM version](https://badge.fury.io/js/metapak-thomassloboda.svg)](https://npmjs.org/package/metapak-thomassloboda)
 [![Dependency Status](https://david-dm.org/thomassloboda/metapak-thomassloboda.svg)](https://david-dm.org/thomassloboda/metapak-thomassloboda)
 [![devDependency Status](https://david-dm.org/thomassloboda/metapak-thomassloboda/dev-status.svg)](https://david-dm.org/thomassloboda/metapak-thomassloboda#info=devDependencies)
